@@ -46,13 +46,13 @@ Clone the repository:
 ```sh
 git clone https://github.com/your-username/quiz-platform.git
 cd quiz-platform
-pnpm install
+npm install
 ```
 
 ### Usage
 Start the development server:
 ```sh
-pnpm dev
+npm run dev
 ```
 Navigate to your browser and open `http://localhost:3000` to explore the quiz platform.
 
